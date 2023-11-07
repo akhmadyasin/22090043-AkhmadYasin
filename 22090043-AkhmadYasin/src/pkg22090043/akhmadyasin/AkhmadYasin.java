@@ -9,12 +9,12 @@ package pkg22090043.akhmadyasin;
  * @author Yasin
  */
 public class AkhmadYasin {
-
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         // TODO code application logic here
+       
+        }
     }
-    
-}
+
